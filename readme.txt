@@ -6,4 +6,4 @@
 提取ef power tools的源码中reverse的核心代码，改造一下。
 
 备注：
-因为该源码只能在vs2015 update3且还需要安装ef powertools插件时才能便宜，所以就没上传源码了。
+因为该源码只能在vs2015 update3且还需要安装ef powertools插件时才能便宜，所以就没上传源码了，请直接从Release下载使用。
